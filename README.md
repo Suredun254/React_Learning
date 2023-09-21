@@ -1,2 +1,5 @@
-# React_Learning
-React learning and practice.
+My
+react
+Learning
+and
+Practice
